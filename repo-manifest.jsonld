@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Cognition-Labs/synapse-bridge/commit/a4f41856ed59945e1a71122a3919cad38e49660f",
       "git:hexsha": "a4f41856ed59945e1a71122a3919cad38e49660f",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
