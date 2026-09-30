@@ -230,7 +230,9 @@
           "githubUrl": "git+https://github.com/windingwind/zotero-types.git",
           "source": "build_file:package.json"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/a4f41856ed59945e1a71122a3919cad38e49660f/chunk-001.nq.gz",
+      "dep": "dep/a4f41856ed59945e1a71122a3919cad38e49660f.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
