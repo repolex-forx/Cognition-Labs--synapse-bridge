@@ -1,0 +1,11 @@
+{
+  "org": "Cognition-Labs",
+  "repo": "synapse-bridge",
+  "versions": [
+    {
+      "commit": "a4f41856ed59945e1a71122a3919cad38e49660f",
+      "tag": "main",
+      "parsed_at": "2026-09-30T19:12:06.624613+00:00"
+    }
+  ]
+}
