@@ -117,4 +117,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [Cognition-Labs/synapse-bridge](https://github.com/Cognition-Labs/synapse-bridge)
 
 ---
-*Parsed on 2026-09-30 by [repolex](https://repolex.ai)*
+*Parsed on 2026-10-01 by [repolex](https://repolex.ai)*
